@@ -1,4 +1,4 @@
-const fs = require('fs')
+ද්const fs = require('fs')
 const chalk = require('chalk')
 
 //Api Website\\
@@ -11,7 +11,31 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = `*🪀⃟𝙷𝙴𝚈 𝚃𝙷𝙴𝚁𝙴 𝙱𝙾𝚃 𝙾𝙽𝙻𝙸𝙽𝙴 𝙽𝙾𝚆⃟🪀*
+
+✅ *𝙷𝙴𝙻𝙻𝙾...👋*
+✅ *𝙸 𝙰𝙼 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙸𝙲𝙴*
+✅ *𝙱𝙾𝚃 𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 𝙺𝙰𝚅𝙴𝙴𝙽*
+✅ *(24/7) 𝚆𝙾𝚁𝙺𝙸𝙽𝙶*
+✅ *𝚃𝙷𝙰𝙽𝙺𝚂 𝙵𝙾𝚁 𝚄𝚂𝙸𝙽𝙶 𝙾𝚄𝚁 𝚂𝙴𝚁𝚅𝙸𝙲𝙴*
+
+🪀🪀🪀🪀🪀🪀🪀🪀🪀🪀
+
+☑️ *𝙱𝙾𝚃 𝙾𝙽𝙻𝙸𝙽𝙴= .𝚊𝚕𝚒𝚟𝚎*
+☑️ *𝙱𝙾𝚃 𝙼𝙴𝙽𝚄= .𝚖𝚎𝚗𝚞*
+
+*𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ᳆⃞⃚🇱🇰ʀͥᴇᷧᴀͫʟ⃟🔱කවීන්🇱🇰*
+𝚠𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚗𝚘 :- http://wa.me/94701430687?text=🅷🅸_කවීන්😌⃟⌘࿔⃝❤️✾ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾➣
+whatsapp bot no:- wa.me/94788411793?text=.alive 
+                  • - - - - - - ☆- - - - - - •
+
+             ♡ ㅤ      ❍ㅤ        ⎙ㅤ    ⌲ 
+             ˡᶦᵏᵉ     ᶜᵒᵐᵐᵉⁿᵗ     ˢᵃᵛᵉ     ˢʰᵃʳᵉ
+           ●━━━━━━━━━●━━━━━●
+                ⇆   ◁ㅤㅤ❚❚ㅤㅤ▷      ↻
+                                  ✯
+
+*® 𝙺𝙰𝚅𝙴𝙴𝙽 𝙱𝙾𝚃 ᴹᴰ* 💃'
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -29,7 +53,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94701430687'] // owner number
+global.vcardowner = ['+94788411793'] // owner number
 global.ownername = " ᳆⃞⃚🇱🇰ʀͥᴇᷧᴀͫʟ⃟කවීන් ²ᵏ²²❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
@@ -47,8 +71,8 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+94701430687']
-global.ownertag = '+94701430687' //your tag number
+global.owner = ['+94788411793']
+global.ownertag = '+94788411793' //your tag number
 global.botname = ' ᳆⃞⃚🇱🇰ʀͥᴇᷧᴀͫʟ⃟කවීන් 🆆🅷🅰🆃🆂🅰🅿🅿-𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = " ᳆⃞⃚🇱🇰ʀͥᴇᷧᴀͫʟ⃟කවීන් ²ᵏ²²" // sticker author
@@ -56,7 +80,7 @@ global.dragonemoji = '🥰' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+94701430687'] //ur premium numbers
+global.premium = ['+9478841193'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
